@@ -18,7 +18,7 @@
                 "year_2016": "AA",
                 "year_2017": "AA"
             }
-        }
+        },
         "profitability_A2": {
             "RoA_A21": {
                 "year_2015": "-13%",
@@ -30,7 +30,7 @@
                 "year_2016": "-12%",
                 "year_2017": "-11%"
             }
-        }
+        },
         "operation_capacity_A3": {
             "accounts_receivable_turnover_rate_A31":{
                 "year_2015": "106%",
@@ -42,7 +42,7 @@
                 "year_2016": "16%",
                 "year_2017": "26%"
             }
-        }
+        },
         "growth_ability_A4": {
             "MBRG_A41":{
                 "year_2015": "3.51%",
@@ -54,7 +54,7 @@
                 "year_2016": "-5.10%",
                 "year_2017": "-6.30%"
             }
-        }
+        },
         "RD_level_A5": {
             "production_iteration_speed_A51":{
                 "year_2015": "B",

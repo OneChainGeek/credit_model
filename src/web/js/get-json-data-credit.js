@@ -75,19 +75,14 @@
 
 document.getElementById('describe').innerHTML = jcontext.describe;
 document.getElementById('company_name').innerHTML = jcontext.company_name;
-document.getElementById('company_name_2').innerHTML = jcontext.company_name;
-document.getElementById('uniform_social_credit_code').innerHTML = jcontext.uniform_social_credit_code;
-document.getElementById('management_forms').innerHTML = jcontext.management_forms;
-document.getElementById('uniform_social_credit_code').innerHTML = jcontext.uniform_social_credit_code;
-document.getElementById('identification_number_of_the_taxpayer').innerHTML = jcontext.identification_number_of_the_taxpayer;
-document.getElementById('registered_number').innerHTML = jcontext.registered_number;
-document.getElementById('registered_site').innerHTML = jcontext.registered_site;
-document.getElementById('organization_code').innerHTML = jcontext.organization_code;
-document.getElementById('insured_number').innerHTML = jcontext.insured_number;
-document.getElementById('establish_time').innerHTML = jcontext.establish_time;
-document.getElementById('registered_capital').innerHTML = jcontext.registered_capital;
-document.getElementById('main_business').innerHTML = jcontext.main_business;
-document.getElementById('staffs_num').innerHTML = jcontext.staffs_num;
+document.getElementById('educational_level_A11').innerHTML = jcontext.first_level_index.team_background_A1.educational_level_A11.year_2017;
+document.getElementById('Career_Portfolio_A12').innerHTML = jcontext.first_level_index.team_background_A1.Career_Portfolio_A12.year_2017;
+document.getElementById('RoA_A21').innerHTML = jcontext.first_level_index.profitability_A2.RoA_A21.year_2017;
+document.getElementById('RoI_A22').innerHTML = jcontext.first_level_index.profitability_A2.RoI_A22.year_2017;
+document.getElementById('accounts_receivable_turnover_rate_A31').innerHTML = jcontext.first_level_index.operation_capacity_A3.accounts_receivable_turnover_rate_A31.year_2017;
+document.getElementById('total_capital_A32').innerHTML = jcontext.first_level_index.operation_capacity_A3.total_capital_A32.year_2017;
+document.getElementById('MBRG_A41').innerHTML = jcontext.first_level_index.growth_ability_A4.MBRG_A41.year_2017;
+document.getElementById('total_assets_growth_rate_A42').innerHTML = jcontext.first_level_index.growth_ability_A4.total_assets_growth_rate_A42.year_2017;
 
 
 
